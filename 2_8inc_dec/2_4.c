@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//comments
 void my_squeeze(char s1[], char s2[])
 
 int main(){
